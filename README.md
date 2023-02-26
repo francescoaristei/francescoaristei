@@ -3,7 +3,7 @@
 ---
 <br />
   
-💻 I'm Francesco Aristei, a `Computer Science and Engineering Student` at Politecnico di Milano.
+💻 I'm Francesco, a `Computer Science and Engineering Student` at Politecnico di Milano.
   
   I am currently working on my Master Thesis about extending Linux Kernel tool `osnoise` to work with KVM. 
  
