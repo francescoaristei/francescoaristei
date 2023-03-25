@@ -5,7 +5,7 @@
   
 💻 I'm Francesco, a `Computer Science and Engineering Student` at Politecnico di Milano.
   
-  I am currently working on my Master Thesis about extending Linux Kernel tool `osnoise` to work with KVM. 
+  I am currently working on my Master Thesis about extending Linux Kernel tool  [`osnoise`](https://docs.kernel.org/trace/osnoise-tracer.html) to work with KVM. 
  
   Before that I was a Software Engineer Intern at [`Digazu`](https://digazu.com/), where i worked on developing endpoints to call for checking data connectivity and retrieving data schema in several technologies (PostgreSQL, MicrosoftSQL Server etc).
   
