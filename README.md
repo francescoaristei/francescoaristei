@@ -1,11 +1,6 @@
 <p align="center" style="font-weight:bold"> 👋 <b>Hi there!</b> <p>
 
 ---
-<br />
-  
-💻 I'm Francesco
-  
-<br />
 <p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects </b> <p>
 
 ---
